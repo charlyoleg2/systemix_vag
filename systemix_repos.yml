@@ -1,0 +1,13 @@
+# systemix_repos.yml
+
+repositories:
+  repos/systemix:
+    type: git
+    url: git@github.com:MYNAME/systemix.git
+    version: main
+  repos/create-systemix:
+    url: git@github.com:MYNAME/create-systemix.git
+    version: main
+  repos/systemix_vag:
+    url: git@github.com:MYNAME/systemix_vag.git
+    version: main

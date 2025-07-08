@@ -9,8 +9,7 @@ Presentation
 
 Using [vag\_tools](https://www.npmjs.com/package/vag_tools), it clones the following repositories:
 
-- systemix
-- create-systemix
+- msysXyz
 - systemix\_vag
 
 

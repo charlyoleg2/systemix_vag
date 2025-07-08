@@ -3,8 +3,8 @@
 repositories:
   repos/msysXyz:
     type: git
-    url: git@github.com:MYNAME/msysXyz.git
+    url: git@github.com:charlyoleg2/msysXyz.git
     version: main
   repos/systemix_vag:
-    url: git@github.com:MYNAME/systemix_vag.git
+    url: git@github.com:charlyoleg2/systemix_vag.git
     version: main

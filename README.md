@@ -17,7 +17,7 @@ Getting started
 ---------------
 
 ```bash
-git clone https://github.com/MYNAME/systemix_vag
+git clone https://github.com/charlyoleg2/systemix_vag
 cd systemix_vag
 npm i
 npm run

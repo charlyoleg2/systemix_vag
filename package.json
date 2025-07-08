@@ -5,10 +5,10 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MYNAME/systemix_vag.git"
+		"url": "git+https://github.com/charlyoleg2/systemix_vag.git"
 	},
-	"homepage": "https://github.com/MYNAME/systemix_vag#readme",
-	"author": "MYNAME",
+	"homepage": "https://github.com/charlyoleg2/systemix_vag#readme",
+	"author": "charlyoleg2",
 	"license": "ISC",
 	"keywords": [
 		"systemix",

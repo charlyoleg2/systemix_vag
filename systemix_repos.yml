@@ -8,3 +8,6 @@ repositories:
   repos/systemix_vag:
     url: git@github.com:charlyoleg2/systemix_vag.git
     version: main
+  repos/mTestSingleton:
+    url: git@github.com:charlyoleg2/mTestSingleton.git
+    version: main
